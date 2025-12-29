@@ -1,4 +1,4 @@
-fetch('http://localhost:3000/order', {
+fetch('https://mieudaide-be.onrender.com/order', {
     method: 'POST',
     headers: {
         'Content-Type': 'application/json'
